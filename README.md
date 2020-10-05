@@ -1,8 +1,8 @@
 ## Blog Posts
 
-<img src='images/blogpost-1.png'/>
-<img src='images/blogpost-2.png'/>
-<img src='images/blogpost-3.png'/>
+<img src='src/images/blogpost-1.png'/>
+<img src='src/images/blogpost-2.png'/>
+<img src='src/images/blogpost-3.png'/>
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
