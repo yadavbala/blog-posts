@@ -7,6 +7,7 @@ function App(){
     return (
         <BrowserRouter>
             <div>
+                <h1 style={{textAlign:'center'}}>Blog Posts</h1>
                 <Link to='/'></Link>
                 <Route path='/' component={Posts} exact={true}/>
             </div>
